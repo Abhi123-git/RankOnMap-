@@ -1,0 +1,6 @@
+{
+  "name": "RankOnMaps AI",
+  "description": "Optimize your local search ranking, track search visibility on a GeoGrid, and generate AI-driven local SEO audits and review replies using Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

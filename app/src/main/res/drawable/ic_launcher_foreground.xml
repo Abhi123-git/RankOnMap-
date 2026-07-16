@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Deep emerald map pin centered on the canvas -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,22 C41,22 31,32 31,46 C31,65 54,86 54,86 C54,86 77,65 77,46 C77,32 67,22 54,22 Z" />
+
+    <!-- Pure white growth trendline arrow inside the map pin -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,54 L49,48 L55,53 L64,42" />
+
+    <!-- Arrow head tip -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M59,42 L64,42 L64,47" />
+        
+    <!-- Pure blue coordinate dot path (Android Vector Drawable compliant) -->
+    <path
+        android:fillColor="#3B82F6"
+        android:pathData="M 50,86 A 4,4 0 1,0 58,86 A 4,4 0 1,0 50,86 Z" />
+</vector>
